@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working at **Block Earner (CryptoFintech)**
 
-- 🌱 I’m currently learning **Java, Spring Boot, Spring MVC**
+- 🌱 I’m currently learning **Java, Spring Boot, Spring MVC and Hibernate**
 
-- 💬 Ask me about **C#, ASP.NET Core, and MVC**
+- 💬 Ask me about **C#, ASP.NET Core Web API, ASP.NET Core MVC and Entity Framework Core**
 
 
 <h3 align="left">Technologies:</h3>
