@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Block Earner (CryptoFintech)**
 
-- 🌱 I’m currently learning **advanced JavaScript and frontend frameworks to enhance my full-stack development skills.**
+- 🌱 I’m currently learning **Java, Spring Boot, Spring MVC**
 
 - 💬 Ask me about **C#, ASP.NET Core, and MVC**
 
