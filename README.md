@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Koç</h1>
 <h3 align="center">Backend Developer Candidate</h3>
 
-- 🔭 I’m currently working at **Block Earner (CryptoFintech)**
+- 🔭 I’m currently working at **Block Earner (CryptoFintech)** as a Backend Intern
 
 - 🌱 I’m currently learning **Java, Spring Boot, Spring MVC and Hibernate**
 
