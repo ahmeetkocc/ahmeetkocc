@@ -21,7 +21,7 @@
 <a href="https://www.capcut.com/tr-tr/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/MO4jVMbqskWrBD7BDUiKkymLPDMlSFjnEE-JTCigWv6UcoENgAkSKr8bs0IvPs8Twv8" alt="chatGPT" width="30" height="30" style="max-width: 100%;"> </a>
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="30" height="30" style="max-width: 100%;"> </a>
 <a href="https://chatgpt.com/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/021/059/825/original/chatgpt-logo-chat-gpt-icon-on-green-background-free-vector.jpg" alt="notion" width="30" height="30" style="max-width: 100%;"> </a>
-<a href="https://clarity.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1513558370220974085/r6j0SGu7_400x400.png" alt="microsoftClarity" width="30" height="30" style="max-width: 100%;"> </a>
+<a href="https://clarity.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://clarity.microsoft.com/blog/wp-content/uploads/2022/02/256X256.png" alt="microsoftClarity" width="30" height="30" style="max-width: 100%;"> </a>
 <a href="https://business.facebook.com/" target="_blank" rel="noreferrer"> <img src="https://img.freepik.com/premium-vector/meta-company-logo_265339-667.jpg" alt="metaBusiness" width="30" height="30" style="max-width: 100%;"> </a>
 
 
